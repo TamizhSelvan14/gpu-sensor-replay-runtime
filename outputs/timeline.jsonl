@@ -1,0 +1,1 @@
+{"timestamp_ms": 0, "label": "clear", "confidence": 0.36063048243522644, "speed_mps": 4.0, "accel_mps2": 0.2, "risk_score": 0.07413, "risk_level": "LOW", "sync_gap_ms": 0, "inference_latency_ms": 474.49843, "debug_features": {"red_mean": 0.08711, "green_mean": 0.08791, "blue_mean": 0.1127, "brightness": 0.09591}}
