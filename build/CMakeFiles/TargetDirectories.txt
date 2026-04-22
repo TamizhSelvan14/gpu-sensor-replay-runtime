@@ -1,3 +1,3 @@
-/mnt/data/cpp_gpu_sensor_runtime/build/CMakeFiles/gpu_sensor_runtime.dir
-/mnt/data/cpp_gpu_sensor_runtime/build/CMakeFiles/edit_cache.dir
-/mnt/data/cpp_gpu_sensor_runtime/build/CMakeFiles/rebuild_cache.dir
+/Users/tamizh/Downloads/cpp_gpu_sensor_runtime/build/CMakeFiles/gpu_sensor_runtime.dir
+/Users/tamizh/Downloads/cpp_gpu_sensor_runtime/build/CMakeFiles/edit_cache.dir
+/Users/tamizh/Downloads/cpp_gpu_sensor_runtime/build/CMakeFiles/rebuild_cache.dir

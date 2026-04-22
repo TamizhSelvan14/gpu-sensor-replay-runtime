@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/gpu_sensor_runtime.dir/link.d"
   "CMakeFiles/gpu_sensor_runtime.dir/src/data_generator.cpp.o"
   "CMakeFiles/gpu_sensor_runtime.dir/src/data_generator.cpp.o.d"
   "CMakeFiles/gpu_sensor_runtime.dir/src/fusion.cpp.o"
