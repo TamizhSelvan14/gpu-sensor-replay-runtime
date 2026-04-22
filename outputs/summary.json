@@ -1,0 +1,11 @@
+{
+  "device": "cpu",
+  "frames_processed": 80,
+  "aligned_pairs": 80,
+  "average_sync_gap_ms": 39.5,
+  "average_inference_latency_ms": 2.34831,
+  "p95_inference_latency_ms": 1.5583,
+  "high_risk_events": 32,
+  "medium_risk_events": 45,
+  "low_risk_events": 3
+}
