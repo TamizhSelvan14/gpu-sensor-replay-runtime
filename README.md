@@ -143,13 +143,3 @@ gpu_sensor_runtime/
   requirements.txt
 ```
 
-## Resume-ready description
-Built a multithreaded sensor replay runtime for deterministic offline validation of AI pipelines, with timestamp synchronization, GPU-aware inference, fusion over camera and IMU streams, and end-to-end latency/drift diagnostics.
-
-## Interview talking points
-- Why deterministic replay matters for debugging AI systems
-- CPU vs GPU inference tradeoffs
-- Synchronization windows and handling skew
-- Replay speed vs wall-clock fidelity
-- Where queueing delay and drift appear in a real pipeline
-- How to replace the demo inference backend with ONNX Runtime, TensorRT, or vLLM-backed workers
